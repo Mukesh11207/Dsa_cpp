@@ -1,0 +1,50 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lib
+*.so
+*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+cmake_install.cmake
+Makefile
+build/
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+*.user
+*.suo
+*.sdf
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Output folders
+bin/
+out/
+debug/
+release/
